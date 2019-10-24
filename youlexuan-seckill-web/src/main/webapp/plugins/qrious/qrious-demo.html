@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>qrious-demo</title>
+    <script src="dist/umd/qrious.js" ></script>
+</head>
+<body>
+11
+<img id="qrious">
+
+<script>
+    //创建对象
+    var qr = new QRious({
+        element:document.getElementById('qrious'),
+        size:150,
+        foreground:'blue',
+        level:'H',
+        value:'http://www.jd.com'
+    });
+</script>
+</body>
+</html>

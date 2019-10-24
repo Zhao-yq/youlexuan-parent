@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-seckill-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-service-page" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-springtask-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-user-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-page-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ddddd/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-order-web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://www.springframework.org/schema/aop/spring-aop.xsd" location="$USER_HOME$/.m2/xsd/spring-aop-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.2.xsd" location="$USER_HOME$/.m2/xsd/spring-beans-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.m2/xsd/spring-context-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx.xsd" location="$USER_HOME$/.m2/xsd/spring-tx-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util.xsd" location="$USER_HOME$/.m2/xsd/spring-util-4.2.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
